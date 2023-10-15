@@ -1,0 +1,10 @@
+{
+  "id": "TEST",
+  "capacity": "100",
+  "speed": 10,
+  "volume": "100",
+  "object": "mouse",
+  "weight": "1",
+  "sex": "male",
+  "age": "1"
+}
